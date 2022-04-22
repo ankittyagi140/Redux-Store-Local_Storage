@@ -1,4 +1,4 @@
-# Redux-Store+Local+Storage
+# Redux-Store+Local-Storage
 to make your states across the application persistent integrate Local storage with it
 
 import { createStore } from "redux";
